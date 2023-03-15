@@ -6,6 +6,7 @@ const Home=(props)=>{
 
 return(
     <div id='home' className='home'>
+        <div id="ons">Shivaya Nama</div>
         <div className='spacer1'/>
         <div className='spacer2'/>
         <div className='home_p'>

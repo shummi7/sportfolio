@@ -334,6 +334,12 @@ a:hover {
   -ms-flex-pack: distribute;
       justify-content: space-around;
 }
+#ons{
+  position: absolute;
+  top:0px;
+  left:0px;
+  /* color:white; */
+}
 
 .home_p {
   width: 100%;
