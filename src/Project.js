@@ -40,8 +40,8 @@ const Project = (props) => {
                         <p className='pro_title'>E-commerce</p>
                         <p className='pro_desc'>Built an E-commerce website from scratch using React. This website allows you to shop clothing and electronics. </p>
                         <div className='pro_links'>
-                            <a href='https://shummi7.github.io/ecommerce/'>Live</a>
-                            <a href='https://github.com/shummi7/ecommerce'>Code</a>
+                            <a href='https://shummi7.github.io/ecommerce-frontend/'>Live</a>
+                            <a href='https://github.com/shummi7/ecommerce-frontend'>Code</a>
                         </div>
                     </div>
 
@@ -122,11 +122,11 @@ const Project = (props) => {
                     </div>
 
                     <div className='pro_word'>
-                        <p className='pro_title'>Smart Brain API</p>
+                        <p className='pro_title'>Face Detect API</p>
                         <p className='pro_desc'>Application that detects face from the user's input and records the entries to a database. The App uses the Clarifai API to get the Face regions of the user's input.</p>
                         <div className='pro_links'>
-                            <a href='https://smart-brain-face-rcgn.herokuapp.com/'>Live</a>
-                            <a href='https://github.com/shummi7/smart-brain-api'>Code</a>
+                            <a href='https://shummi7.github.io/face-detect/'>Live</a>
+                            <a href='https://github.com/shummi7/face-detect'>Code</a>
                         </div>
                     </div>
 
@@ -142,8 +142,8 @@ const Project = (props) => {
                         <p className='pro_title'>Quiz App</p>
                         <p className='pro_desc'>Quiz App that test your knowledge. There are variety of categories to choose from. The app uses API to fetch questions and answers.</p>
                         <div className='pro_links'>
-                            <a href='https://shummi-quizapp.herokuapp.com/'>Live</a>
-                            <a href='https://github.com/shummi7/quizApp'>Code</a>
+                            <a href='https://shummi7.github.io/quizapp-frontend/'>Live</a>
+                            <a href='https://github.com/shummi7/quizapp-frontend'>Code</a>
                         </div>
                     </div>
 
