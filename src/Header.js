@@ -7,7 +7,7 @@ const hams=props.hamsactive?"hamburger hamburger--spring is-active":"hamburger h
 
 return(
     <div className={header_scroll}>
-        <p>Sharmi</p>
+        <p style={{userSelect: "None"}}>Sharmi</p>
 
         <div className='spacer'/>
 

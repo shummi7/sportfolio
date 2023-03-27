@@ -18,7 +18,7 @@ return(
             <div className='skills_list1'>
             <p>HTML</p>
             <p>CSS</p>
-            <p>Saas</p>
+            <p>Sass</p>
             <p>JavaScript</p>
             </div>
 
@@ -30,7 +30,7 @@ return(
             </div>
 
             <div className='skills_list2'>
-            <p>TypeScript</p>
+            <p>Photoshop</p>
             <p>Node.js</p>
             <p>React</p>
             <p>Angular</p>

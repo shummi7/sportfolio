@@ -12,7 +12,7 @@ return(
         <div className='home_p'>
             <h1>Hello</h1>
             <h1>I'm <span className='home_color'>Sharmila Moorthi</span></h1>
-            <p>Web Developer from Seattle</p>
+            <p>Web Developer from Euless, TX</p>
         </div>
         <img className='img_bg1' src={bg1}/>
     </div>
